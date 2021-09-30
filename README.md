@@ -40,5 +40,5 @@
 
 ## Code Sample
 
-- https://github.com/karl-ashraful/ZB_21/blob/main/Files/code%20preview.pdf
+- See the [pdf](https://github.com/karl-ashraful/ZB_21/blob/main/Files/code%20preview.pdf).
 - 
