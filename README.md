@@ -2,6 +2,8 @@
 
 `Simple API`
 
+[![Sample input format]](https://github.com/karl-ashraful/ZB_21/blob/main/Files/sample.png)
+
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
