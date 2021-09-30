@@ -40,5 +40,7 @@
 
 ## Code Sample
 
-- See the [pdf](https://github.com/karl-ashraful/ZB_21/blob/main/Files/code%20preview.pdf).
-- 
+- See the [PDF](https://github.com/karl-ashraful/ZB_21/blob/main/Files/code%20preview.pdf)
+- [Base Service Interface](https://github.com/karl-ashraful/ZB_21/blob/main/Files/IBaseService.pdf)
+- [Employee Service Interface](https://github.com/karl-ashraful/ZB_21/blob/main/Files/IEmployeeService.pdf)
+- [Service Infrastructure](https://github.com/karl-ashraful/ZB_21/blob/main/Files/BaseRepository.pdf)
