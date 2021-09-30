@@ -1,7 +1,6 @@
-### ZB_21
-```
-Simple API
-```
+## ZB_21
+
+`Simple API`
 
 <details open="open">
   <summary>Table of Contents</summary>
@@ -39,6 +38,7 @@ Simple API
   </ol>
 </details>
 
-### Code Sample
+## Code Sample
 
-https://github.com/karl-ashraful/ZB_21/blob/main/Files/code%20preview.pdf
+- https://github.com/karl-ashraful/ZB_21/blob/main/Files/code%20preview.pdf
+- 
